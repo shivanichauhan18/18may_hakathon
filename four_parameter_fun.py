@@ -1,8 +1,8 @@
-def say_hello_people(var_x,var_y,var_a,var_b):
-	print "Namaste",var_x
-	print "banjour",var_y
-	print "hello",var_a
-	print "Alah hafij",var_b
+def say_hello_people(firstName,secondName,thirdName,fourthName):
+	print "Namaste",firstName
+	print "banjour",secondName
+	print "hello",thirdName
+	print "Alah hafij",fourthName
 
 say_hello_people("shivani","anjali","sonam","jaiswal")
 print " "
